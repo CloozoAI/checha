@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://app.cloozo.com/$1"
+      "destination": "https://storelax.xyz/$1"
     }
   ]
 }
