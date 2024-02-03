@@ -3,8 +3,8 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://shopkart.io/$1",
-      "headers": { "host": "shopkart.io" }
+      "dest": "https://app.cloozo.com/$1",
+      "headers": { "host": "app.cloozo.com" }
     }
   ]
 }
