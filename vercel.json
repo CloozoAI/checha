@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "routes": [
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "https://app.cloozo.com/$1"
+      "source": "/(.*)",
+      "destination": "https://app.cloozo.com/$1"
     }
   ]
 }
