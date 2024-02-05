@@ -1,9 +1,8 @@
 {
-  "version": 2,
-  "rewrites": [
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "https://storelax.xyz/$1"
+      "src": "/(.*)",
+      "dest": "https://app.cloozo.com/$1"
     }
   ]
 }
