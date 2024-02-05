@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://cloozo.com/$1"
+      "dest": "https://app.cloozo.com/register/$1"
     }
   ]
 }
